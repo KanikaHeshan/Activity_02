@@ -1,4 +1,4 @@
-print ("Temperture Converter")
+print ("Temperture Converter Program")
 
 temp=float(input("Enter the Temperature:"))
 sing=input("Input 'F' for Fahrenheit or 'C' for Celsius:")
