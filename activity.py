@@ -6,7 +6,8 @@ sing=input("Input 'F' for Fahrenheit or 'C' for Celsius:")
 if sing == "F":
     temp = ((temp-32.00)*5.00/9.00)
     print ("Temperature in Celsius: ",temp, "C")
-    
+    print ("Thank you")
 elif sing == "C":
     temp = ((temp*9.00/5.00)+32.00)
     print ("Temperature in Fahrenheit: ", temp, "F")
+    print ("Thank you")
